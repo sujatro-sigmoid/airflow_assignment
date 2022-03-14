@@ -2038,3 +2038,163 @@
 [2022-03-14 15:27:31,408] {logging_mixin.py:109} INFO - [2022-03-14 15:27:31,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
 [2022-03-14 15:27:31,449] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
 [2022-03-14 15:27:31,458] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.064 seconds
+[2022-03-14 15:27:41,562] {processor.py:163} INFO - Started process (PID=2166) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:41,567] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:27:41,569] {logging_mixin.py:109} INFO - [2022-03-14 15:27:41,569] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:41,605] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:41,613] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.057 seconds
+[2022-03-14 15:27:51,691] {processor.py:163} INFO - Started process (PID=2179) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:51,700] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:27:51,703] {logging_mixin.py:109} INFO - [2022-03-14 15:27:51,703] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:51,759] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:27:51,770] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.091 seconds
+[2022-03-14 15:28:01,908] {processor.py:163} INFO - Started process (PID=2187) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:01,912] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:01,915] {logging_mixin.py:109} INFO - [2022-03-14 15:28:01,915] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:01,951] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:01,960] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.059 seconds
+[2022-03-14 15:28:12,093] {processor.py:163} INFO - Started process (PID=2202) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:12,097] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:12,100] {logging_mixin.py:109} INFO - [2022-03-14 15:28:12,099] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:12,135] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:12,144] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.057 seconds
+[2022-03-14 15:28:22,263] {processor.py:163} INFO - Started process (PID=2217) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:22,268] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:22,271] {logging_mixin.py:109} INFO - [2022-03-14 15:28:22,271] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:22,317] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:22,327] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.071 seconds
+[2022-03-14 15:28:32,466] {processor.py:163} INFO - Started process (PID=2248) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:32,475] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:32,483] {logging_mixin.py:109} INFO - [2022-03-14 15:28:32,482] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:32,551] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:32,582] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.131 seconds
+[2022-03-14 15:28:42,704] {processor.py:163} INFO - Started process (PID=2263) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:42,710] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:42,714] {logging_mixin.py:109} INFO - [2022-03-14 15:28:42,714] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:42,757] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:42,766] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.070 seconds
+[2022-03-14 15:28:52,875] {processor.py:163} INFO - Started process (PID=2273) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:52,881] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:28:52,885] {logging_mixin.py:109} INFO - [2022-03-14 15:28:52,885] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:52,944] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:28:52,956] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.088 seconds
+[2022-03-14 15:29:03,104] {processor.py:163} INFO - Started process (PID=2284) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:03,109] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:03,113] {logging_mixin.py:109} INFO - [2022-03-14 15:29:03,113] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:03,164] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:03,172] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.076 seconds
+[2022-03-14 15:29:13,266] {processor.py:163} INFO - Started process (PID=2315) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:13,273] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:13,276] {logging_mixin.py:109} INFO - [2022-03-14 15:29:13,276] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:13,313] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:13,321] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.062 seconds
+[2022-03-14 15:29:23,413] {processor.py:163} INFO - Started process (PID=2330) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:23,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:23,419] {logging_mixin.py:109} INFO - [2022-03-14 15:29:23,419] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:23,463] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:23,470] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.064 seconds
+[2022-03-14 15:29:33,568] {processor.py:163} INFO - Started process (PID=2345) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:33,573] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:33,576] {logging_mixin.py:109} INFO - [2022-03-14 15:29:33,576] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:33,614] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:33,627] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.065 seconds
+[2022-03-14 15:29:43,726] {processor.py:163} INFO - Started process (PID=2360) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:43,731] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:43,733] {logging_mixin.py:109} INFO - [2022-03-14 15:29:43,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:43,774] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:43,784] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.064 seconds
+[2022-03-14 15:29:53,850] {processor.py:163} INFO - Started process (PID=2366) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:53,856] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:29:53,859] {logging_mixin.py:109} INFO - [2022-03-14 15:29:53,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:53,903] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:29:53,922] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.080 seconds
+[2022-03-14 15:30:04,071] {processor.py:163} INFO - Started process (PID=2381) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:04,075] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:04,078] {logging_mixin.py:109} INFO - [2022-03-14 15:30:04,078] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:04,115] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:04,125] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.060 seconds
+[2022-03-14 15:30:14,242] {processor.py:163} INFO - Started process (PID=2396) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:14,246] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:14,249] {logging_mixin.py:109} INFO - [2022-03-14 15:30:14,249] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:14,308] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:14,316] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.081 seconds
+[2022-03-14 15:30:24,413] {processor.py:163} INFO - Started process (PID=2411) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:24,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:24,420] {logging_mixin.py:109} INFO - [2022-03-14 15:30:24,420] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:24,460] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:24,468] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.061 seconds
+[2022-03-14 15:30:34,627] {processor.py:163} INFO - Started process (PID=2426) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:34,631] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:34,634] {logging_mixin.py:109} INFO - [2022-03-14 15:30:34,634] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:34,668] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:34,675] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.053 seconds
+[2022-03-14 15:30:44,763] {processor.py:163} INFO - Started process (PID=2441) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:44,769] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:44,773] {logging_mixin.py:109} INFO - [2022-03-14 15:30:44,773] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:44,805] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:44,814] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.057 seconds
+[2022-03-14 15:30:54,948] {processor.py:163} INFO - Started process (PID=2451) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:54,956] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:30:54,959] {logging_mixin.py:109} INFO - [2022-03-14 15:30:54,959] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:54,997] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:30:55,005] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.064 seconds
+[2022-03-14 15:31:05,152] {processor.py:163} INFO - Started process (PID=2462) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:05,156] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:05,158] {logging_mixin.py:109} INFO - [2022-03-14 15:31:05,158] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:05,190] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:05,199] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.053 seconds
+[2022-03-14 15:31:07,250] {processor.py:163} INFO - Started process (PID=2472) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:07,254] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:07,257] {logging_mixin.py:109} INFO - [2022-03-14 15:31:07,256] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:07,308] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:07,317] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.072 seconds
+[2022-03-14 15:31:17,422] {processor.py:163} INFO - Started process (PID=2483) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:17,426] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:17,429] {logging_mixin.py:109} INFO - [2022-03-14 15:31:17,429] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:17,516] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:17,524] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.108 seconds
+[2022-03-14 15:31:27,618] {processor.py:163} INFO - Started process (PID=2498) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:27,622] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:27,626] {logging_mixin.py:109} INFO - [2022-03-14 15:31:27,625] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:27,665] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:27,673] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.063 seconds
+[2022-03-14 15:31:37,775] {processor.py:163} INFO - Started process (PID=2513) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:37,778] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:37,780] {logging_mixin.py:109} INFO - [2022-03-14 15:31:37,780] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:37,813] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:37,820] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.051 seconds
+[2022-03-14 15:31:47,916] {processor.py:163} INFO - Started process (PID=2528) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:47,920] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:47,922] {logging_mixin.py:109} INFO - [2022-03-14 15:31:47,922] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:47,954] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:47,962] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.051 seconds
+[2022-03-14 15:31:58,063] {processor.py:163} INFO - Started process (PID=2543) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:58,067] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:31:58,069] {logging_mixin.py:109} INFO - [2022-03-14 15:31:58,069] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:58,102] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:31:58,110] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.052 seconds
+[2022-03-14 15:32:08,206] {processor.py:163} INFO - Started process (PID=2549) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:08,212] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:32:08,216] {logging_mixin.py:109} INFO - [2022-03-14 15:32:08,215] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:08,252] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:08,261] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.062 seconds
+[2022-03-14 15:32:18,380] {processor.py:163} INFO - Started process (PID=2564) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:18,384] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:32:18,386] {logging_mixin.py:109} INFO - [2022-03-14 15:32:18,386] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:18,419] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:18,428] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.055 seconds
+[2022-03-14 15:32:28,532] {processor.py:163} INFO - Started process (PID=2579) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:28,536] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:32:28,539] {logging_mixin.py:109} INFO - [2022-03-14 15:32:28,538] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:28,571] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:28,578] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.052 seconds
+[2022-03-14 15:32:38,686] {processor.py:163} INFO - Started process (PID=2594) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:38,689] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:32:38,692] {logging_mixin.py:109} INFO - [2022-03-14 15:32:38,692] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:38,729] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:38,737] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.058 seconds
+[2022-03-14 15:32:48,828] {processor.py:163} INFO - Started process (PID=2609) to work on /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:48,832] {processor.py:642} INFO - Processing file /opt/airflow/dags/python_scripts/get_current_weather_data.py for tasks to queue
+[2022-03-14 15:32:48,834] {logging_mixin.py:109} INFO - [2022-03-14 15:32:48,834] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:48,870] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/python_scripts/get_current_weather_data.py
+[2022-03-14 15:32:48,878] {processor.py:171} INFO - Processing /opt/airflow/dags/python_scripts/get_current_weather_data.py took 0.056 seconds
