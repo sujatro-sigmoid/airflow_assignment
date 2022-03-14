@@ -4,7 +4,7 @@ from airflow.operators.python import PythonOperator
 from pendulum import datetime
 from datetime import timedelta
 from python_scripts.get_current_weather_data import get_current_weather_data
-
+ 
 with DAG(
     dag_id="main_dag",
     default_args={
