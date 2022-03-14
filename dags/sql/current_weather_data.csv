@@ -1,0 +1,11 @@
+state_name,description,temperature,feels_like,temp_min,temp_max,humidity,clouds
+Assam,clear sky,298.6,297.93,298.6,298.6,28,1
+Chandigarh,clear sky,297.35,296.9,297.35,297.35,41,0
+Delhi,haze,300.2,302.01,300.2,301.65,69,0
+Himachal Pradesh,clear sky,287.2,286.1,287.2,287.2,55,0
+Jharkhand,clear sky,299.97,299.02,299.97,299.97,16,0
+Karnataka,overcast clouds,300.59,299.77,300.59,300.59,28,100
+Maharashtra,scattered clouds,301.53,300.04,301.53,301.53,10,41
+Punjab,clear sky,301.06,299.95,301.06,301.06,24,0
+State of Sikkim,scattered clouds,264.09,257.09,264.09,264.09,62,42
+West Bengal,clear sky,300.69,299.51,300.69,300.69,17,3
