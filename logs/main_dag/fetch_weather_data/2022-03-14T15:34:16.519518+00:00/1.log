@@ -1,0 +1,22 @@
+[2022-03-14 15:34:19,675] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: main_dag.fetch_weather_data manual__2022-03-14T15:34:16.519518+00:00 [queued]>
+[2022-03-14 15:34:19,715] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: main_dag.fetch_weather_data manual__2022-03-14T15:34:16.519518+00:00 [queued]>
+[2022-03-14 15:34:19,716] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-14 15:34:19,718] {taskinstance.py:1244} INFO - Starting attempt 1 of 2
+[2022-03-14 15:34:19,719] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-14 15:34:19,760] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): fetch_weather_data> on 2022-03-14 15:34:16.519518+00:00
+[2022-03-14 15:34:19,769] {standard_task_runner.py:52} INFO - Started process 2731 to run task
+[2022-03-14 15:34:19,777] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'main_dag', 'fetch_weather_data', 'manual__2022-03-14T15:34:16.519518+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/main_dag.py', '--cfg-path', '/tmp/tmp5e6rz_5q', '--error-file', '/tmp/tmpb0a2vwit']
+[2022-03-14 15:34:19,780] {standard_task_runner.py:77} INFO - Job 6: Subtask fetch_weather_data
+[2022-03-14 15:34:19,896] {logging_mixin.py:109} INFO - Running <TaskInstance: main_dag.fetch_weather_data manual__2022-03-14T15:34:16.519518+00:00 [running]> on host 0bb54ecb374d
+[2022-03-14 15:34:20,025] {taskinstance.py:1431} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=main_dag
+AIRFLOW_CTX_TASK_ID=fetch_weather_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-03-14T15:34:16.519518+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-03-14T15:34:16.519518+00:00
+[2022-03-14 15:34:26,124] {python.py:175} INFO - Done. Returned value was: None
+[2022-03-14 15:34:26,156] {taskinstance.py:1282} INFO - Marking task as SUCCESS. dag_id=main_dag, task_id=fetch_weather_data, execution_date=20220314T153416, start_date=20220314T153419, end_date=20220314T153426
+[2022-03-14 15:34:26,238] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-03-14 15:34:26,341] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

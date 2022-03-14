@@ -11,8 +11,8 @@ with DAG(
             "retries": 1,
             "retry_delay": timedelta(seconds=30),
         },
-    start_date=datetime(year=2022, month=3, day=1, hour=6),
-    schedule_interval="@daily",
+    start_date=datetime(year=2022, month=3, day=1),
+    schedule_interval="0 6 * * *",
     catchup=False
 ) as dag:
 
