@@ -34,3 +34,5 @@ with DAG(
     )
 
     task_fetch_weather_data >> task_create_weather_table >> task_populate_weather_table
+
+    
