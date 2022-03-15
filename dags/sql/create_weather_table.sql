@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS weather_table;
-CREATE TABLE weather_table (
-state_name VARCHAR NOT NULL,
+-- creating weather table
+CREATE TABLE IF NOT EXISTS weather_table(
+state_name VARCHAR NOT NULL PRIMARY KEY UNIQUE,
 description VARCHAR NOT NULL,
 temperature VARCHAR NOT NULL,
 feels_like VARCHAR NOT NULL,
